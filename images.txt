@@ -1,1 +1,1 @@
-maxkb
+1panel/maxkb:v1.2.0
