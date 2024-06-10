@@ -1,1 +1,2 @@
 python:alpine3.19
+1panel:maxkb1.2.0
